@@ -7,5 +7,4 @@ Instructions on how to use AutoEagler are located in the AutoEagler folder. Neit
 
 #### Credits:
 Lax1dude for making the Eaglercraft javascript runtime and the shader pack
-wxnnvs for creating AutoEagler
-radmanplays for the source of the desktop runtime
+and wxnnvs for creating AutoEagler

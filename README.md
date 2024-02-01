@@ -5,7 +5,7 @@ To play this, you will need to download the repo and launch the jar file in the 
 
 You need to have the latest java AND the latest JDK installed on your computer to run this. It will not run without JDK! (if it throws errors about lwjgl libraties not found its most certainly a JDK issue. Make sure you have it.)
 
-Instructions on how to use AutoEagler are located in the AutoEagler folder. Neither program runs on Linux.
+This version now works on Linux.
 
 #### Credits:
 Lax1dude for making the Eaglercraft javascript runtime and the shader pack
